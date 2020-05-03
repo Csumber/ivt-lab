@@ -37,6 +37,7 @@ public class TorpedoStore {
 
     boolean success = false;
 
+    // ez itt egy változtatás
     // simulate random overheating of the launcher bay which prevents firing
  
     double r = generator.nextDouble();
